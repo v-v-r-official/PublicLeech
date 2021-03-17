@@ -12,7 +12,6 @@ if not __name__.endswith("sample_config"):
         file=sys.stderr
     )
     quit(1)
-
 from tobrot.get_cfg import get_config
 
 
